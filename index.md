@@ -7,5 +7,3 @@ I am an aspiring **PhD candidate** at University. My research interests are in t
 - Project 1
 - Project 2
 - Project 3
-
-[subscriberlist](https://signs-sparks.kit.com/843e453b8b)
